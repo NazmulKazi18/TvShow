@@ -1,1 +1,1 @@
-
+TV Show Explorer is a web application for streaming TV series, inspired by Netflix and Crunchyroll. Developed in React, it allows users to discover and filter series, with detailed information on each series and its episodes for an immersive experience.
